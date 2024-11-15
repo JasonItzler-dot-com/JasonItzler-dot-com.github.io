@@ -1,0 +1,83 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jason Itzler - Your Neighborhood Criminal</title>
+    <style>
+        /* Reset some default styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Center column styling */
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 600px;
+            padding: 20px;
+            border-radius: 15px;
+            background: #fff;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            font-size: 1.8rem;
+            margin-bottom: 1rem;
+        }
+
+        p {
+            font-size: 1rem;
+            margin-bottom: 1.5rem;
+            line-height: 1.6;
+        }
+
+        /* Responsive embedded video */
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;
+            max-width: 100%;
+            background: #000;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Are you thinking about renting to Jason Itzler in New York City? Think again!</h1>
+        <p>
+            In the past he ran an escort agency linked to money laundering and was investigated and questioned regarding the murder of a young woman named Marie Sumnicht. Now he is doing a pimping of a different kind, exploiting a young autistic man with a TikTok following for his livestream.
+        </p>
+        <p>Watch this documentary to learn more:</p>
+
+        <div class="video-container">
+            <iframe src="https://www.youtube.com/embed/CUlMBuqgATc" 
+                    title="YouTube video player" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen></iframe>
+        </div>
+    </div>
+</body>
+</html>
