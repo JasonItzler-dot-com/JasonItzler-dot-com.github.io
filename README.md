@@ -67,7 +67,7 @@
     <div class="container">
         <h1>Are you thinking about renting to Jason Itzler in New York City? Think again!</h1>
         <p>
-            In the past he ran an escort agency linked to money laundering and was investigated and questioned regarding the murder of a young woman named Marie Sumnicht. Now he is doing a pimping of a different kind, exploiting a young autistic man with a TikTok following for his livestream.
+            In the past he ran an escort agency linked to money laundering and was investigated and questioned regarding the murder of a young woman named Julia Sumnicht. Now he is doing a pimping of a different kind, exploiting a young autistic man with a TikTok following for his livestream.
         </p>
         <p>Watch this documentary to learn more:</p>
 
